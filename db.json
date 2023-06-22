@@ -20,25 +20,253 @@
             "status": "active"
       },
       {
-          "id": 2,
-          "name": "gary",
-          "grade": 12,
-          "marks": {
-              "maths": 70,
-              "physics": 50,
-              "chemistry": 65
-          }
-      },
-      {
-          "id": 3,
-          "name": "stuart",
-          "grade": 11,
-          "marks": {
-              "maths": 80,
-              "physics": 20,
-              "chemistry": 90
-          }
-      }
+        "owner_id": 2,
+        "name": "dhruv",
+        "budget_name": "Software subscription",
+        
+            "Spend_value": 80,
+            "currency": "SGD",
+            
+       
+        "available_spent_value": 1000,
+          
+          "currency": "SGD",
+          
+      
+      "card_type": "Subscription",
+        "expiry": "9 feb",
+         " limit": 100,
+          "status": "active"
+    },
+    {
+      "owner_id": 3,
+      "name": "aleabcx",
+      "budget_name": "Software subscription",
+      
+          "Spend_value": 80,
+          "currency": "SGD",
+          
+     
+      "available_spent_value": 1000,
+        
+        "currency": "SGD",
+        
+    
+    "card_type": "burner",
+      "expiry": "9 feb",
+       " limit": 100,
+        "status": "active"
+  },
+  {
+    "owner_id": 4,
+    "name": "aleabcx",
+    "budget_name": "Software subscription",
+    
+        "Spend_value": 80,
+        "currency": "SGD",
+        
+   
+    "available_spent_value": 1000,
+      
+      "currency": "SGD",
+      
+  
+  "card_type": "burner",
+    "expiry": "9 feb",
+     " limit": 100,
+      "status": "active"
+},
+{
+  "owner_id": 5,
+  "name": "ABC",
+  "budget_name": "Software subscription",
+  
+      "Spend_value": 800,
+      "currency": "SGD",
+      
+ 
+  "available_spent_value": 1800,
+    
+    "currency": "SGD",
+    
+
+"card_type": "subscription",
+  "expiry": "9 feb",
+   " limit": 100,
+    "status": "active"
+},
+
+{
+  "owner_id": 6,
+  "name": "ABC",
+  "budget_name": "Software subscription",
+  
+      "Spend_value": 800,
+      "currency": "SGD",
+      
+ 
+  "available_spent_value": 1800,
+    
+    "currency": "SGD",
+    
+
+"card_type": "subscription",
+  "expiry": "9 feb",
+   " limit": 100,
+    "status": "active"
+},
+
+{
+  "owner_id": 7,
+  "name": "Ram",
+  "budget_name": "Software subscription",
+  
+      "Spend_value": 800,
+      "currency": "SGD",
+      
+ 
+  "available_spent_value": 1800,
+    
+    "currency": "SGD",
+    
+
+"card_type": "burner",
+  "expiry": "9 feb",
+   " limit": 100,
+    "status": "active"
+},
+
+{
+  "owner_id": 8,
+  "name": "Syscraft",
+  "budget_name": "Software subscription",
+  
+      "Spend_value": 800,
+      "currency": "SGD",
+      
+ 
+  "available_spent_value": 1800,
+    
+    "currency": "SGD",
+    
+
+"card_type": "subscription",
+  "expiry": "9 feb",
+   " limit": 100,
+    "status": "active"
+},
+
+{
+  "owner_id": 10,
+  "name": "Google",
+  "budget_name": "Software subscription",
+  
+      "Spend_value": 800,
+      "currency": "SGD",
+      
+ 
+  "available_spent_value": 1800,
+    
+    "currency": "SGD",
+    
+
+"card_type": "burner",
+  "expiry": "9 feb",
+   " limit": 100,
+    "status": "active"
+},
+
+{
+  "owner_id": 11,
+  "name": "FACebook",
+  "budget_name": "Software subscription",
+  
+      "Spend_value": 800,
+      "currency": "SGD",
+      
+ 
+  "available_spent_value": 1800,
+    
+    "currency": "SGD",
+    
+
+"card_type": "subscription",
+  "expiry": "9 feb",
+   " limit": 100,
+    "status": "active"
+},
+{
+  "owner_id": 12,
+  "name": "Amazon",
+  "budget_name": "Software subscription",
+  
+      "Spend_value": 800,
+      "currency": "SGD",
+      
+ 
+  "available_spent_value": 1800,
+    
+    "currency": "SGD",
+    
+
+"card_type": "burner",
+  "expiry": "9 feb",
+   " limit": 100,
+    "status": "active"
+},
+{
+  "owner_id": 13,
+  "name": "ABC",
+  "budget_name": "Software subscription",
+  
+      "Spend_value": 800,
+      "currency": "SGD",
+      
+ 
+  "available_spent_value": 1800,
+    
+    "currency": "SGD",
+    
+
+"card_type": "subscription",
+  "expiry": "9 feb",
+   " limit": 100,
+    "status": "active"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   ]
 }
