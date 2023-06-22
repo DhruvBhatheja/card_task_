@@ -1,0 +1,44 @@
+{
+  "students": [
+      {
+          "owner_id": 1,
+          "name": "alex",
+          "budget_name": "Software subscription",
+          
+              "Spend_value": 80,
+              "currency": "SGD",
+              
+         
+          "available_spent_value": 1000,
+            
+            "currency": "SGD",
+            
+        
+        "card_type": "burner",
+          "expiry": "9 feb",
+           " limit": 100,
+            "status": "active"
+      },
+      {
+          "id": 2,
+          "name": "gary",
+          "grade": 12,
+          "marks": {
+              "maths": 70,
+              "physics": 50,
+              "chemistry": 65
+          }
+      },
+      {
+          "id": 3,
+          "name": "stuart",
+          "grade": 11,
+          "marks": {
+              "maths": 80,
+              "physics": 20,
+              "chemistry": 90
+          }
+      }
+
+  ]
+}
