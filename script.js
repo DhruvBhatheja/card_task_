@@ -35,7 +35,7 @@ function allEmployees(){
     //     </div>
     //   </div>`
 
-    datastore+=` <div class="col">
+    datastore+=` <div class="col-4 col-lg-4 col-sm-6">
     <div class="card mb-4 rounded-3 shadow-sm">
       <div class="card-header py-3">
         <h4 class="my-0 fw-normal"> Info</h4>
